@@ -8,3 +8,6 @@ We used HTML and CSS for the front end and styling.
 We used Node.js for communicating with the backend
 We used javascript and SQL for database queries
 And We used Heroku to host our database and websites.
+
+
+*Although the app is not fully functional we did complete the full-stack experience. We were able to store user input into the databases and succesfully query that information
